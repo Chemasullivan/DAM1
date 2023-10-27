@@ -3,7 +3,7 @@ package Reducciones;
 import java.util.Scanner;
 
 public class Reduccion20a3 {
-
+//creamos la bonoloto
 	public static void main(String[] args) {
 		int [] numeros =new int [20];
 		ingresarNumeros(numeros);
