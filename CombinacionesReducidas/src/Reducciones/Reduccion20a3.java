@@ -31,6 +31,7 @@ public class Reduccion20a3 {
             {7, 8, 10, 12, 14, 16}
         };
 
+		//usamos mejor el bucle for
         for (int i = 0; i < combinaciones.length; i++) {
             System.out.print("Combinación " + (i + 1) + ": ");
             for (int j = 0; j < 6; j++) {
