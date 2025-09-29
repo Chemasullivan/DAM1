@@ -3,7 +3,7 @@ package Reducciones;
 import java.util.Scanner;
 
 public class Reduccion20a3 {
-//creamos la bonoloto
+//creamos la bonoloto 1.0
 	public static void main(String[] args) {
 		int [] numeros =new int [20];
 		ingresarNumeros(numeros);
@@ -40,6 +40,8 @@ public class Reduccion20a3 {
             System.out.println();
         }
     }
+
+	//Comentario prueba para .gitignore
 
  
 	/*private static void combinacionElegida(int [] numerosElegidos) {
