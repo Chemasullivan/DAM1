@@ -3,6 +3,7 @@ package Reducciones;
 import java.util.Scanner;
 
 //vamos a hacer pruebas de commit en sourcetree
+//volvemos a hacer otro cambio en sourcetree
 
 public class Reduccion20a3 {
 //creamos la bonoloto 1.0
