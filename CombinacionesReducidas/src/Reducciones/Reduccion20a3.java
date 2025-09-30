@@ -6,6 +6,7 @@ import java.util.Scanner;
 //volvemos a hacer otro cambio en sourcetree
 //otro cambio vamos a hacer de nuevo
 //hemosk creado una rama nueva
+//hacemos un commit con este nuevo comentario 1.0
 
 public class Reduccion20a3 {
 //creamos la bonoloto 1.0
