@@ -8,6 +8,8 @@ import java.util.Scanner;
 //hemosk creado una rama nueva
 //hacemos un commit con este nuevo comentario 1.0
 
+//hacemos otro cambio en sourcetree
+
 public class Reduccion20a3 {
 //creamos la bonoloto 1.0
 	public static void main(String[] args) {
