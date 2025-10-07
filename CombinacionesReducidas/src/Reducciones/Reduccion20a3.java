@@ -9,6 +9,7 @@ import java.util.Scanner;
 //hacemos un commit con este nuevo comentario 1.0
 
 //hacemos otro cambio en sourcetree
+//hacemos otro cambio en sourcetree 2.0
 
 public class Reduccion20a3 {
 //creamos la bonoloto 1.0
